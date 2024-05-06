@@ -8,15 +8,6 @@ change-template: '- $TITLE [#$NUMBER] by [@$AUTHOR](https://github.com/$AUTHOR)'
 template: |
   # :mega: Play $NEXT_PATCH_VERSION Released
   
-  The Play Team is happy to announce the releases of Play $NEXT_PATCH_VERSION.
-  
-  ## :green_book: What is new?
-  
-  The following are the relevant changes of this bugfix release:
-  
-  * TODO [#123](https://github.com/playframework/playframework/pull/123)
-  * TODO [#123](https://github.com/playframework/playframework/issues/123)
-  
   Following pull requests got merged for this release:
   
   $CHANGES
